@@ -1,0 +1,39 @@
+[02-Jan-2018 17:09:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 3
+[02-Jan-2018 17:09:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 4
+[02-Jan-2018 17:09:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 5
+[02-Jan-2018 17:09:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 6
+[02-Jan-2018 17:10:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 3
+[02-Jan-2018 17:10:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 4
+[02-Jan-2018 17:10:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 5
+[02-Jan-2018 17:10:14 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 6
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 3
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 4
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 5
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 6
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 3
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 4
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 5
+[02-Jan-2018 17:10:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 6
+[02-Jan-2018 17:10:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 3
+[02-Jan-2018 17:10:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 4
+[02-Jan-2018 17:10:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 5
+[02-Jan-2018 17:10:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/rocketdev/public_html/campaign/create/additional.php on line 6
+[07-Feb-2018 15:49:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rocketdev/public_html/campaign/create/_contact_ctrl.php on line 62
+[08-Feb-2018 19:16:29 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rocketdev/public_html/campaign/create/_what_ctrl.php on line 140
+[08-Feb-2018 19:17:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rocketdev/public_html/campaign/create/_what_ctrl.php on line 223
+[26-Feb-2018 17:02:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/rocketdev/public_html/campaign/create/_where_ctrl.php on line 234
+[26-Feb-2018 17:39:36 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rocketdev/public_html/campaign/create/who.php on line 138
+[26-Feb-2018 17:45:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rocketdev/public_html/campaign/create/_who_ctrl.php on line 188
+[26-Feb-2018 17:57:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rocketdev/public_html/campaign/create/who.php on line 151
+[26-Feb-2018 17:57:38 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/rocketdev/public_html/campaign/create/who.php on line 151
+[26-Feb-2018 19:28:08 UTC] PHP Parse error:  syntax error, unexpected '$NEXT_STEP_PAGE' (T_VARIABLE) in /home/rocketdev/public_html/campaign/create/_when_ctrl.php on line 135
+[26-Feb-2018 19:28:20 UTC] PHP Parse error:  syntax error, unexpected '$recur' (T_VARIABLE) in /home/rocketdev/public_html/campaign/create/_when_ctrl.php on line 185
+[26-Feb-2018 19:28:22 UTC] PHP Parse error:  syntax error, unexpected '$recur' (T_VARIABLE) in /home/rocketdev/public_html/campaign/create/_when_ctrl.php on line 185
+[26-Feb-2018 20:15:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rocketdev/public_html/campaign/create/_when_ctrl.php on line 224
+[26-Feb-2018 20:26:32 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rocketdev/public_html/campaign/create/_when_ctrl.php on line 201
+[13-Mar-2018 09:14:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rocketdev/public_html/campaign/create/_contact_ctrl.php on line 152
+[13-Mar-2018 09:16:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rocketdev/public_html/campaign/create/_contact_ctrl.php on line 152
+[13-Mar-2018 10:20:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rocketdev/public_html/campaign/create/_title_ctrl.php on line 187
+[08-Jan-2019 01:15:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rocketdev/public_html/campaign/create/_what_callback.php on line 9
+[30-May-2019 13:58:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rocketdev/public_html/campaign/create/_contact_ctrl.php on line 175
+[30-May-2019 13:59:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rocketdev/public_html/campaign/create/_contact_ctrl.php on line 175

@@ -1,0 +1,7 @@
+[05-Jan-2019 00:30:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rocketdev/public_html/user/_dashboard_ctrl.php on line 193
+[07-Jan-2019 00:24:24 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/rocketdev/public_html/user/_dashboard_ctrl.php on line 210
+[07-Jan-2019 23:41:18 UTC] PHP Parse error:  syntax error, unexpected '$campaign' (T_VARIABLE) in /home/rocketdev/public_html/user/_signup_ctrl.php on line 184
+[07-Jan-2019 23:41:22 UTC] PHP Parse error:  syntax error, unexpected '$campaign' (T_VARIABLE) in /home/rocketdev/public_html/user/_signup_ctrl.php on line 184
+[23-Apr-2019 23:10:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/rocketdev/public_html/user/_dashboard_ctrl.php on line 269
+[23-Apr-2019 23:48:07 UTC] PHP Parse error:  syntax error, unexpected '$gData' (T_VARIABLE) in /home/rocketdev/public_html/user/_dashboard_ctrl.php on line 44
+[24-Apr-2019 18:17:55 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rocketdev/public_html/user/dashboard.php on line 193
